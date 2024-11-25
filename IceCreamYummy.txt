@@ -1,1 +1,4 @@
-{"Kai":"NotSet","Zeph":"C10B211A-CD21-11E4-A961-68F728ACD603"}
+{
+  Kai = "",
+  Zeph = "C10B211A-CD21-11E4-A961-68F728ACD603"
+}
